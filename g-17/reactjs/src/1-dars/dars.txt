@@ -1,0 +1,4 @@
+1.useState
+2.map
+3.modal oyna
+4.sikl orqali modal oyna va bosilganda chiqishi

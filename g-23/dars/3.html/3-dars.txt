@@ -1,0 +1,26 @@
+1.web haqida tushuncha
+2.web bolimlari
+3.front-end haqida tushuncha
+4.back-end haqida tushuncha
+5.front-endda organiladigan texnologiyalar va front-endning asosiy azifasi
+6.code editor vs code haqida
+7.loyiha uchun papka strukturasi
+8.html haqida 
+9.htmlni da kod yozish
+10.teg haqida
+11.html,head,meta,titile,body,atrubutlar vazifalari
+12.kerakli ekstenshin o'rnatish 
+13.web siteni bravzerda korish
+14.sarlavhalar bilan ishlash ,h1 tegi
+15.matlar bilan ishlash,p,br tegi
+16.comment haqida va uning ahamyati
+17.i,u,b,sub,sup,s,hr
+18.tartibsiz va tartibli royhat ul,li,ol
+19.gippersilka haqida va ularni qo'llash
+20.img qoyish va imgga togri yolak korsatish
+****vazifa***
+---30 test tuzish, ul,ol,li tegidan  foydalanib
+---ixtiroiy rasm qo'yib unga bosilganda biror bir web sayt yoki ijtimoiy tarmoqqa o'tuzish, a, img  tegidan foydalanib
+---tarjimai hol yosish va tarjimai holda sarlavha teglari,mant teglari, i,u,b,sub,sup,s,hr,br, img,a teglaridan foydalanib
+
+

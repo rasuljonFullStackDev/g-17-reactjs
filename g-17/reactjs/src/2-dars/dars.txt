@@ -1,0 +1,16 @@
+1.useState,useEffect,useContext,useRef
+navbar,tab,modal
+sikl orqali bosilgan elementni tanlash
+couter yasash
+sikl orqali counter yasash
+
+vazifa:
+https://www.figma.com/file/IOQ0DaFyJgOKbvrrCPdIYB/Fruits-and-Vegetables-online-store?node-id=202%3A2
+
+
+*******
+2.inputlardan qiymat olish
+3.crud
+
+*****
+useContext orqali crud
